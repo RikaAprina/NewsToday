@@ -4,7 +4,7 @@ Aplikasi ini dirancang untuk menyajikan tentang berita seputar info bisnis,Olahr
 <h1>"Tampilan Menu utama Aplikasi "</h1><br>
 <img src="https://github.com/RikaAprina/NewsToday/blob/master/menuUtama.png" alt="alt text" width="350" height="350"><br>
  
- <h2>Ketika user memilih info bisni,maka outputnya akan seperti ini</h2><br>
+ <h2>Ketika user memilih info bisnis,Kesehatan,Sceince,dan Olahraga,maka outputnya akan seperti ini</h2>
  
 <h3>"Tampilan Menu info bisnis "</h3><br>
 <img src="https://github.com/RikaAprina/NewsToday/blob/master/BeritaBisnis.png" alt="alt text" width="350" height="350"><br>
@@ -17,6 +17,11 @@ Aplikasi ini dirancang untuk menyajikan tentang berita seputar info bisnis,Olahr
 
 <h3>"Tampilan Menu info Olahraga "</h3><br>
 <img src="https://github.com/RikaAprina/NewsToday/blob/master/BeritaOlahraga.png" alt="alt text" width="350" height="350"><br>
+
+<h2> Dan jika user mengklik salah satu berita,contohnya berita pada kesahatan,maka tampilannya akan seperti ini</h2>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/kshtn2.png" alt="alt text" width="350" height="350"><br>
+ 
+ 
 
 
 
