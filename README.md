@@ -2,7 +2,7 @@
 Aplikasi ini dirancang untuk menyajikan tentang berita seputar info bisnis,Olahraga,Science,Kesahatan menggunakan Flutter dan API,APi disini yang digunakan ialah 'NewsAPi' = https://newsapi.org/ ,Dimana setiap berita yang di sajikan di ambil dari sana.
 
 <h1>"Tampilan Menu utama Aplikasi "</h1><br>
-<img src="https://github.com/RikaAprina/NewsToday/blob/master/menuUtama.png" alt="alt text" width="350" height="350"><br>
+<img src="https://github.com/RikaAprina/NewsToday/blob/master/menuUtama.png" alt="alt text" width="350" height="350">
  
  <h2>Ketika user memilih info bisnis,Kesehatan,Sceince,dan Olahraga,maka outputnya akan seperti ini</h2>
  
